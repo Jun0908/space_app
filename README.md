@@ -35,6 +35,7 @@ Uploading an image will generate NFTs
  [Movie in YouTube / 紹介動画 YouTube](https://www.youtube.com/watch?v=CmSESCkDMz4)
 
  [Web アプリ / Web App on HuggingFace Space](https://huggingface.co/spaces/KJMAN678/create_alien_on_mars)
+ [Web アプリ / NFT Generation](https://astar-edition-drop.vercel.app/))
   
 
 ###  Gene to Image / 遺伝子配列により出力した画像
@@ -53,10 +54,10 @@ https://drive.google.com/file/d/19XA71p0JYiEdcOf8ELbSd8rMhidQeYl7/view?usp=drive
 - On Colab
 
   Stable_Diffusion_in_Colab
-  - Open [stable_diffusion_in_Colab.ipynb on Colab](https://colab.research.google.com/drive/1Uaqmq3ibMmEwepnn4OWHf2TVboUVa14O?usp=sharing)
+  - Open [stable_diffusion_in_Colab.ipynb on Colab]
   
   Mubert_Text_to_Music
-  - Open [Mubert_Text_to_Music.ipynb](https://colab.research.google.com/drive/1Uaqmq3ibMmEwepnn4OWHf2TVboUVa14O?usp=sharing)
+  - Open [Mubert_Text_to_Music.ipynb]
  
 - On Local 
 
@@ -64,10 +65,10 @@ https://drive.google.com/file/d/19XA71p0JYiEdcOf8ELbSd8rMhidQeYl7/view?usp=drive
 NFT-Drop-Astar-Edition
 
 # Clone the repository
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/Jun0908/space_app.git
 
 # Change to the project directory
-cd your-project-name
+cd space_app/NFT-Drop-Astar-Edition
 
 # Install library
 yarn install 
