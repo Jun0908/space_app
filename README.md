@@ -35,6 +35,7 @@ Uploading an image will generate NFTs
  [Movie in YouTube / 紹介動画 YouTube](https://www.youtube.com/watch?v=CmSESCkDMz4)
 
  [Web アプリ / Web App on HuggingFace Space](https://huggingface.co/spaces/KJMAN678/create_alien_on_mars)
+ 
  [Web アプリ / NFT Generation](https://astar-edition-drop.vercel.app/))
   
 
