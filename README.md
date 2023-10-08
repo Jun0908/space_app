@@ -1,7 +1,7 @@
 
 ## Space App Yokohama 2023 in Japan / 横浜
 
-### [Team Noah's Ark Space Administration (チームノアの方舟)](松原 大悟
+### [Team Noah's Ark Space Administration (チームノアの方舟)]
 https://www.spaceappschallenge.org/2023/find-a-team/nasanoahs-arch-space-administration/?fbclid=IwAR3Q7sA4fMM2bqGY5ipmh-rjsoqu5XcFxcVsp9mDcP1ytQjkeoaB7SFqLrU&tab=project)
 
 - Mr. Matsubara (松原さん)
