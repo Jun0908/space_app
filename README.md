@@ -46,6 +46,7 @@ Uploading an image will generate NFTs
 
 ### Gene to Music / 遺伝子配列により出力した音源
 [音楽を再生する] <audio controls src="https://github.com/ytyaru/Audio.Sample.201708031714/tree/master/20170803/wav/CMajor.wav"></audio>
+https://drive.google.com/file/d/19XA71p0JYiEdcOf8ELbSd8rMhidQeYl7/view?usp=drive_link
 
 ### How to Execute / 実行方法
 
