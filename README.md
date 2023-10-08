@@ -1,7 +1,7 @@
 
 ## Space App Yokohama 2023 in Japan / 横浜
 
-### [Team Aliens (チーム宇宙人)](https://2022.spaceappschallenge.org/challenges/2022-challenges/space-biology-superhero/teams/team-x-alien/project)
+### [Team Noah's Ark Space Administration (チームノアの方舟)](https://2022.spaceappschallenge.org/challenges/2022-challenges/space-biology-superhero/teams/team-x-alien/project)
 
 
 - Mr. Matsubara (松原さん)
@@ -19,21 +19,33 @@
 既存の生物がどのような遺伝変化が起きたのかをブロックチェーンに刻む
 どのような未知の生物と人類が遭遇したのかDatasetを作る
 
+- Record the genetic variations of existing organisms based on the time and location in space using blockchain technology. Create a dataset documenting encounters between unknown organisms and humans.
+
+### To do at this time / 今回やったこと
+# Fine Tuning Generative Art 
+その生物が持っている特有の遺伝子を入力するとその生物が出力される　例えば、肌の色 耳が大きさなど
+By inputting the unique genetic traits that an organism possesses, such as genes specific to humans like "large ears," the system will output an image of that organism.
+
+# Generative NFT 
+imageをアップロードするとNFTが生成される
+Uploading an image will generate NFTs
+
+### In near future we accomplish / 将来的にやりたいこと
+
+# Genetics　Code to Image
 将来的には遺伝子入力すると該当の生き物の絵が表示されるようになり、
 未知の生物の遺伝子を入力しても学習データから未知の生物が表示されるようになる。
 
-- Record the genetic variations of existing organisms based on the time and location in space using blockchain technology. Create a dataset documenting encounters between unknown organisms and humans.
-In the future, inputting the genetic code of an organism will display an image of that creature. Even when the genetic code of an unknown organism is entered, an image of the unknown creature will be generated based on learned data.
+Inputting the genetic code of an organism will display an image of that creature. Even when the genetic code of an unknown organism is entered, an image of the unknown creature will be generated based on learned data.
 
-（今回やったこと）
-Fine Tuning Generative Art 
-その生物が持っている特有の遺伝子を入力するとその生物が出力される
-例えば、人間特有の遺伝子 耳が大きいなどなど
+# Add cosmic time and  latitude & longitude　in the University to the NFT Stamp / NFT Stampに宇宙の時間と場所を追加する
+Julian Date / ユリウス日
+Cosmic Time / コズミックタイム
+Relativistic Time　/ 相対論的時間
+Heliocentric Coordinate System / 太陽系座標系
+Galactic Coordinate System / 銀河座標系
 
-By inputting the unique genetic traits that an organism possesses, such as genes specific to humans like "large ears," the system will output an image of that organism.
-
-
-- [Slide (Sorry, Only Japanese) / スライド(日本語のみ)](https://docs.google.com/presentation/d/1Umq53JqME-GUJN6TgCDA7Fu1CcQhMJTG/edit#slide=id.g15d379b926a_3_0)
+- [Slide / スライド](https://docs.google.com/presentation/d/1Umq53JqME-GUJN6TgCDA7Fu1CcQhMJTG/edit#slide=id.g15d379b926a_3_0)
 
 - [Movie in YouTube / 紹介動画 YouTube](https://www.youtube.com/watch?v=CmSESCkDMz4)
 
@@ -59,7 +71,7 @@ By inputting the unique genetic traits that an organism possesses, such as genes
   Mubert_Text_to_Music
   - Open [Mubert_Text_to_Music.ipynb](https://colab.research.google.com/drive/1Uaqmq3ibMmEwepnn4OWHf2TVboUVa14O?usp=sharing)
  
-- On Local (Mac)
+- On Local 
 
 ```
 NFT-Drop-Astar-Edition
@@ -73,9 +85,8 @@ cd your-project-name
 # Install library
 yarn install 
 
-# Install library
-yarn install 
-
+# Start the development server
+yarn start
 ```
 
 ### File Organization / ファイル構成
