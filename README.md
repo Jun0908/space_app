@@ -1,7 +1,8 @@
 
 ## Space App Yokohama 2023 in Japan / 横浜
 
-### [Team Noah's Ark Space Administration (チームノアの方舟)](https://2022.spaceappschallenge.org/challenges/2022-challenges/space-biology-superhero/teams/team-x-alien/project)
+### [Team Noah's Ark Space Administration (チームノアの方舟)](松原 大悟
+https://www.spaceappschallenge.org/2023/find-a-team/nasanoahs-arch-space-administration/?fbclid=IwAR3Q7sA4fMM2bqGY5ipmh-rjsoqu5XcFxcVsp9mDcP1ytQjkeoaB7SFqLrU&tab=project)
 
 - Mr. Matsubara (松原さん)
 - Me, Kawai (河合(記))
@@ -32,7 +33,7 @@ Uploading an image will generate NFTs
 
  [Slide / スライド](https://docs.google.com/presentation/d/1SFMJqgYY59PvGXzrFeguV166TxxNBXH3Gz5435CAzF8/edit?usp=sharing)
 
- [Movie in Loom/ 紹介動画 Loom]([https://www.youtube.com/watch?v=CmSESCkDMz4](https://www.loom.com/share/eeaaa68e8877401c8e24b800f2289f13?sid=f27caf84-7cdc-4a48-bf1b-6cd09654700a))
+ [Movie in Loom/ 紹介動画 Loom](https://www.loom.com/share/eeaaa68e8877401c8e24b800f2289f13?sid=f27caf84-7cdc-4a48-bf1b-6cd09654700a)
 
  [Web アプリ / Web App on HuggingFace Space](https://huggingface.co/spaces/KJMAN678/create_alien_on_mars)
  
