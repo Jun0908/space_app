@@ -29,25 +29,13 @@ By inputting the unique genetic traits that an organism possesses, such as genes
 imageをアップロードするとNFTが生成される
 Uploading an image will generate NFTs
 
-### In near future we accomplish / 将来的にやりたいこと
-- Genetics　Code to Image
-将来的には遺伝子入力すると該当の生き物の絵が表示されるようになり、
-未知の生物の遺伝子を入力しても学習データから未知の生物が表示されるようになる。
-Inputting the genetic code of an organism will display an image of that creature. Even when the genetic code of an unknown organism is entered, an image of the unknown creature will be generated based on learned data.
-
-- Add cosmic time and  latitude & longitude　in the University to the NFT Stamp / NFT Stampに宇宙の時間と場所を追加する
-Julian Date / ユリウス日
-Cosmic Time / コズミックタイム
-Relativistic Time　/ 相対論的時間
-Heliocentric Coordinate System / 太陽系座標系
-Galactic Coordinate System / 銀河座標系
-
 
 - [Slide / スライド](https://docs.google.com/presentation/d/1Umq53JqME-GUJN6TgCDA7Fu1CcQhMJTG/edit#slide=id.g15d379b926a_3_0)
 
 - [Movie in YouTube / 紹介動画 YouTube](https://www.youtube.com/watch?v=CmSESCkDMz4)
 
 - [Web アプリ / Web App on HuggingFace Space](https://huggingface.co/spaces/KJMAN678/create_alien_on_mars)
+  
 
 ###  Gene to Image / 遺伝子配列により出力した画像
 
@@ -102,6 +90,15 @@ yarn start
   - Folder containing the Output image described above.
   - 上述の Output 画像が入ったフォルダ
 
+### In near future we accomplish / 将来的にやりたいこと
+- Genetics　Code to Image
+将来的には遺伝子入力すると該当の生き物の絵が表示されるようになり、
+未知の生物の遺伝子を入力しても学習データから未知の生物が表示されるようになる。
+Inputting the genetic code of an organism will display an image of that creature. Even when the genetic code of an unknown organism is entered, an image of the unknown creature will be generated based on learned data.
+
+- Add cosmic time and  latitude & longitude　in the University to the NFT Stamp / NFT Stampに宇宙の時間と場所を追加する
+Julian Date / ユリウス日 Cosmic Time / コズミックタイム  Relativistic Time　/ 相対論的時間
+Heliocentric Coordinate System / 太陽系座標系  Galactic Coordinate System / 銀河座標系
 
 ### Reference site / 参考サイト
 
