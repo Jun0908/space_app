@@ -30,11 +30,11 @@ imageをアップロードするとNFTが生成される
 Uploading an image will generate NFTs
 
 
-- [Slide / スライド](https://docs.google.com/presentation/d/1Umq53JqME-GUJN6TgCDA7Fu1CcQhMJTG/edit#slide=id.g15d379b926a_3_0)
+ [Slide / スライド](https://docs.google.com/presentation/d/1Umq53JqME-GUJN6TgCDA7Fu1CcQhMJTG/edit#slide=id.g15d379b926a_3_0)
 
-- [Movie in YouTube / 紹介動画 YouTube](https://www.youtube.com/watch?v=CmSESCkDMz4)
+ [Movie in YouTube / 紹介動画 YouTube](https://www.youtube.com/watch?v=CmSESCkDMz4)
 
-- [Web アプリ / Web App on HuggingFace Space](https://huggingface.co/spaces/KJMAN678/create_alien_on_mars)
+ [Web アプリ / Web App on HuggingFace Space](https://huggingface.co/spaces/KJMAN678/create_alien_on_mars)
   
 
 ###  Gene to Image / 遺伝子配列により出力した画像
@@ -45,7 +45,7 @@ Uploading an image will generate NFTs
 </div>
 
 ### Gene to Music / 遺伝子配列により出力した音源
-[音楽を再生する]<audio src="/./sample_output_images/Gene_to_Music.mp3" controls></audio>
+[音楽を再生する] <audio controls src="https://github.com/ytyaru/Audio.Sample.201708031714/tree/master/20170803/wav/CMajor.wav"></audio>
 
 ### How to Execute / 実行方法
 
@@ -96,7 +96,7 @@ yarn start
 未知の生物の遺伝子を入力しても学習データから未知の生物が表示されるようになる。
 Inputting the genetic code of an organism will display an image of that creature. Even when the genetic code of an unknown organism is entered, an image of the unknown creature will be generated based on learned data.
 
-- Add cosmic time and  latitude & longitude　in the University to the NFT Stamp / NFT Stampに宇宙の時間と場所を追加する
+- Add cosmic time and latitude & longitude in the University to the NFT Stamp / NFTスタンプに宇宙の時間と場所を追加する
 Julian Date / ユリウス日 Cosmic Time / コズミックタイム  Relativistic Time　/ 相対論的時間
 Heliocentric Coordinate System / 太陽系座標系  Galactic Coordinate System / 銀河座標系
 
